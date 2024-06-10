@@ -1,0 +1,116 @@
+Software Development Life Cycle (SDLC) Phases
+
+Requirement Analysis:
+
+Description: Gather requirements from stakeholders to understand their needs and document them.
+Example: Interviews, questionnaires, and use case documentation.
+System Design:
+
+Description: Define the system architecture, components, modules, interfaces, and data to satisfy the requirements.
+Example: Creating UML diagrams, architectural blueprints.
+Implementation:
+
+Description: Actual coding and development of the software components.
+Example: Writing code in programming languages such as Java, Python.
+Testing:
+
+Description: Verify that the system meets all requirements and is free of defects.
+Example: Unit testing, integration testing, system testing.
+Deployment:
+
+Description: Deliver the final product to the user environment.
+Example: Installing software on client servers, app deployment on app stores.
+Maintenance:
+
+Description: Ongoing support to fix issues, update the system, and improve performance.
+Example: Bug fixes, software updates, performance tuning.
+Agile vs. Waterfall Models
+Waterfall Model:
+
+Description: Sequential design process, often used in software development processes, where progress is seen as flowing steadily downwards (like a waterfall) through phases.
+Key Differences:
+Phases: Sequential and rigid.
+
+Flexibility: Low, difficult to go back to a previous phase.
+Use Case: Best for projects with well-defined requirements that are unlikely to change.
+Example: Construction projects with fixed scope and clear requirements.
+Agile Model:
+
+Description: Iterative and incremental approach to software development which focuses on delivering small, workable pieces of software to the customer.
+Key Differences:
+Phases: Iterative and flexible.
+
+Flexibility: High, can accommodate changes even late in the project.
+Use Case: Best for projects with evolving requirements.
+Example: Software startups where customer feedback continuously shapes the product.
+Requirements Engineering
+
+Description: Process of defining, documenting, and maintaining software requirements.
+Process: Includes requirements elicitation, specification, validation, and management.
+Importance: Ensures the final product meets the user needs and reduces the risk of project failure due to misunderstood requirements.
+
+Example: Business analysis to capture the needs for a new customer relationship management (CRM) system.
+Software Design Principles
+Modularity:
+
+Description: Designing a system that is composed of separate, interchangeable modules.
+Benefits:
+
+Maintainability: Easier to update and fix parts of the system.
+
+Scalability: Individual modules can be scaled independently.
+Example: Microservices architecture where each service is a module that can be developed, deployed, and scaled independently.
+Testing in Software Engineering
+Unit Testing:
+
+Description: Testing individual units or components.
+Example: Testing a single function in a codebase.
+Integration Testing:
+
+Description: Testing combined parts of an application to ensure they work together.
+Example: Testing data flow between modules in a software system.
+System Testing:
+
+Description: Testing the complete and integrated software to evaluate the system's compliance with its requirements.
+Example: Testing the entire application workflow.
+Acceptance Testing:
+
+Description: Testing conducted to determine if the requirements are met.
+Example: User Acceptance Testing (UAT) by the end users.
+Importance: Ensures software quality, reliability, and performance, ultimately leading to user satisfaction and reducing maintenance costs.
+
+Version Control Systems
+Description: Tools that help manage changes to source code over time.
+Importance: Enable collaboration, maintain history of changes, and facilitate rollback if needed.
+Examples:
+
+Git: Distributed version control system; features include branching, merging, and version tracking.
+
+Subversion (SVN): Centralized version control system; features include atomic commits and versioning of directories.
+
+Software Project Management
+Role:
+
+Responsibilities: Planning, executing, and overseeing projects to ensure they are completed on time, within budget, and meet quality standards.
+
+Challenges: Scope creep, time management, resource allocation, and stakeholder communication.
+Example: Managing a project to develop a new e-commerce platform, ensuring it meets deadlines and budget constraints while addressing stakeholder requirements.
+Software Maintenance
+
+Definition: Ongoing process of updating software post-deployment.
+Types:
+Corrective: Fixing bugs.
+Adaptive: Updating software to work in a new or changed environment.
+Perfective: Improving performance or maintainability.
+Preventive: Making changes to prevent future problems.
+Importance: Ensures software remains functional, secure, and relevant over time.
+
+Ethical Considerations in Software Engineering
+Issues:
+Privacy: Ensuring user data is protected.
+Security: Preventing malicious attacks.
+Intellectual Property: Respecting software licenses and patents.
+
+Adherence:
+Codes of Conduct: Following professional guidelines (e.g., ACM Code of Ethics).
+Best Practices: Implementing security measures, obtaining user consent for data collection, and transparent communication with stakeholders.
